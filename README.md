@@ -1,3 +1,2 @@
 # homework
-homework1
 ProxyLogon是Microsoft Exchange Server上的一個漏洞，使攻擊者可以不必經過身分驗證冒充管理員，如果機房資料遭受攻擊，將可能使得用戶機密資料外洩或是惡意執行病毒檔而導致極大損失，更新Exchange伺服器是最保險的防護，為防止可能的後續攻擊，微軟建議企業應立即檢視Exchange Server是否有駭入跡象、web shell，並檢查用戶及用戶群組是否有可疑新增帳號，呼籲變更所有用戶帳號和本地管理員帳號密碼。
